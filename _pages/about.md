@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Mechanical and Mechatronics Engineering at the University of Waterloo, advised by Professor Amir Khajepour and co-supervised by Professor Ehsan Hashemi at the University of Alberta. My research focuses on autonomous driving systems, especially multi-sensor fusion, perception, motion planning, control, safety assessment, and cooperative perception for real-world mobility platforms.
-
-I have contributed to the WATonoBus all-weather autonomous shuttle project and led development related to cooperative infrastructure perception systems such as CoInfra. My work aims to make autonomous mobility more reliable in adverse weather, dense traffic, and complex indoor/outdoor environments.
+I am a PhD student in the Department of Mechanical and Mechatronics Engineering at the University of Waterloo, advised by Professor [Amir Khajepour](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/akhajepo) and co-supervised by Professor [Ehsan Hashemi](https://apps.ualberta.ca/directory/person/ehashemi) at the University of Alberta. 
+My research focuses on autonomous driving systems, with an emphasis on multi-sensor fusion, perception, motion planning, control, and cooperative perception for real-world mobility platforms. 
+I led the [perception development](https://github.com/NingMingHao/Yolov8TensorrtRos) for the second generation of the [WATonoBus](https://uwaterloo.ca/watonobus/) autonomous shuttle project and led the transition to its third generation (Autoware-based platform).
+I also led the development of [CoInfra](https://github.com/NingMingHao/CoInfra), a cooperative infrastructure perception system for connected and automated mobility.
+My work aims to improve the reliability and safety of autonomous mobility systems in adverse weather, dense traffic, and complex indoor and outdoor environments.
 
 <a id="research"></a>
 

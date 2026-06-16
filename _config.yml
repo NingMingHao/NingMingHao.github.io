@@ -23,10 +23,10 @@ repository               : "NingMingHao/NingMingHao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/NingMingHao.png"
+  avatar           : "avatar.jpg"
   name             : "Minghao Ning"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in autonomous driving, perception, motion planning, and cooperative mobility systems."
+  bio              : "PhD Candidate, University of Waterloo"
   location         : "Waterloo, Canada"
   employer         : "University of Waterloo"
   uri              : # URL
@@ -125,7 +125,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
