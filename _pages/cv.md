@@ -12,10 +12,11 @@ redirect_from:
 Education
 ======
 * **PhD / MASc, Mechanical and Mechatronics Engineering**, University of Waterloo, 2020-present
+  * Advisor: Prof. Amir Khajepour; co-supervisor: Prof. Ehsan Hashemi (University of Alberta)
   * Research areas: autonomous driving, perception, motion planning, control, cooperative perception, and trustworthy mobility systems
   * Selected coursework: Adaptive Control, Introduction to Machine Learning, Optimal Control, Computer Vision, Autonomous Mobile Robotics
 * **Bachelor of Engineering, Vehicle Engineering**, Beijing Institute of Technology, 2016-2020
-  * Ranked 1st in class according to the CV record
+  * Ranked 1st in class
 
 Research experience
 ======
@@ -37,9 +38,17 @@ Project experience
   * Contributed to perception, decision making, safety monitoring, motion planning, and control for a field-tested autonomous shuttle platform.
   * Supported autonomous shuttle demonstrations for industry and public-sector partners.
 
+* **CoInfra: cooperative infrastructure perception system and dataset**, 2023-present
+  * Led the design and deployment of a 14-node roadside perception network with cameras, LiDAR, edge computing, and 5G communication.
+  * Built delay-aware synchronization, cloud-side fusion, and globally consistent 3D tracking, and released a large-scale public adverse-weather dataset.
+
 * **5G-Based Vehicle-to-Infrastructure (V2I) mobility system**, 2023-present
   * Developed a 5G-enabled vehicle-to-cloud system with solar-powered infrastructure sensor nodes.
-  * Supported real-time sensor fusion, global planning, and remote management using edge computing and IoT capabilities.
+  * Supported real-time sensor fusion, global planning, and remote over-the-air management using edge computing and IoT capabilities.
+
+* **Indoor cooperative perception for robot mobility**, 2023-present
+  * Developed uncertainty-aware 3D human pose estimation and delay-aware tracking from ceiling-mounted sensor nodes.
+  * Closed the loop with MPC-based motion planning on a medical-bed robot platform in real-world experiments.
 
 Awards
 ======
