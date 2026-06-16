@@ -1,152 +1,178 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Minghao Ning",
+    "label": "PhD student, University of Waterloo",
+    "email": "minghao.ning@uwaterloo.ca",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ningminghao.github.io",
+    "summary": "PhD student in Mechanical and Mechatronics Engineering at the University of Waterloo, working on autonomous driving, multi-sensor fusion, motion planning, control, cooperative perception, and trustworthy mobility systems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Waterloo",
+      "countryCode": "Canada",
+      "region": "Ontario"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Minghao Ning",
+        "url": "https://scholar.google.com/citations?user=ViXAd2YAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0000-0003-4333-5524",
+        "url": "https://orcid.org/0000-0003-4333-5524"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "NingMingHao",
+        "url": "https://github.com/NingMingHao"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "minghao-ning-204b70158",
+        "url": "https://www.linkedin.com/in/minghao-ning-204b70158"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "University of Waterloo",
+      "position": "Graduate Researcher",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "Research in autonomous driving perception, planning, control, safety, and cooperative infrastructure sensing.",
+      "highlights": [
+        "Developed point-cloud-based potential-field motion planning methods for autonomous vehicles.",
+        "Designed LiDAR-camera-HD map fusion approaches for safe drivable space generation.",
+        "Built cooperative perception systems using connected infrastructure sensor nodes."
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "area": "MASc / PhD in Mechanical and Mechatronics Engineering",
+      "studyType": "Graduate Studies",
+      "startDate": "2020",
+      "endDate": "Present",
+      "gpa": "94/100",
+      "courses": [
+        "Adaptive Control",
+        "Introduction to Machine Learning",
+        "Optimal Control",
+        "Computer Vision",
+        "Autonomous Mobile Robotics"
+      ]
+    },
+    {
+      "institution": "Beijing Institute of Technology",
+      "area": "Bachelor of Engineering in Vehicle Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2016",
+      "endDate": "2020",
+      "gpa": "92.16/100",
+      "courses": [
+        "Calculus",
+        "Probability Theory",
+        "C Programming",
+        "Linear Algebra",
+        "Numerical Methods"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python",
+        "MATLAB/Simulink",
+        "C++"
+      ]
+    },
+    {
+      "name": "Robotics and perception",
+      "keywords": [
+        "ROS1",
+        "ROS2",
+        "OpenCV",
+        "LiDAR-camera calibration",
+        "Multi-sensor fusion",
+        "Autonomous driving perception"
+      ]
+    },
+    {
+      "name": "Machine learning",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Autonomous driving",
+      "keywords": [
+        "Perception",
+        "Motion planning",
+        "Control",
+        "Safety assessment",
+        "Cooperative perception"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather",
+      "publisher": "arXiv",
+      "releaseDate": "2025-07-01",
+      "website": "https://arxiv.org/abs/2507.02245",
+      "summary": "Large-scale cooperative infrastructure perception system and dataset for adverse-weather vehicle-infrastructure cooperation."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "A Novel Motion Planning for Autonomous Vehicles Using Point Cloud Based Potential Field",
+      "publisher": "IEEE Transactions on Vehicular Technology",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "Point-cloud-based potential-field motion planning for autonomous vehicles."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion",
+      "publisher": "IEEE ITSC",
+      "releaseDate": "2024-10-01",
+      "website": "https://arxiv.org/abs/2410.22314",
+      "summary": "LiDAR-camera-HD map fusion for safe drivable space generation."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Enhancing Indoor Mobility with Connected Sensor Nodes: A Real-Time, Delay-Aware Cooperative Perception Approach",
+      "publisher": "IEEE ITSC",
+      "releaseDate": "2024-10-01",
+      "website": "https://arxiv.org/abs/2411.02624",
+      "summary": "Delay-aware cooperative perception for intelligent indoor mobility."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Trustworthy Diagnosis in Connected Mobility",
+      "event": "IEEE ITSC 2024",
+      "date": "2024-10-01",
+      "location": "",
+      "description": "Organized and chaired a technical session on trustworthy diagnosis and prognosis in connected and cooperative automated mobility."
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "teaching": [],
+  "portfolio": []
 }
